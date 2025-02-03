@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'build/Interruptions.uf2'
+elf = 'build/Interruptions.elf'
